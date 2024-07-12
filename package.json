@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial repo to understand how jenkins works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shbmbhrdwj/jenkins-tutorial.git"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shbmbhrdwj/jenkins-tutorial/issues"
+  },
+  "homepage": "https://github.com/shbmbhrdwj/jenkins-tutorial#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
